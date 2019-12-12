@@ -15,4 +15,4 @@
 
 # Others :-
 - Get the old, unstable version and old API of ARCore [here](https://github.com/ArchRPG/ArchCoreSystem/tree/Old-Core). (P.S: It might be laggy :P)
-- Feel free to make pull requests to help us complete this plugin!
+- Feel free to make pull requests to help us complete this plugin!!
